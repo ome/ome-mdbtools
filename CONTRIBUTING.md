@@ -13,8 +13,8 @@ please ensure you read these.
 
 * Fork the GitHub repository.
 * Create a branch for your work based on the latest `dev_x` e.g. dev_5_0 or
-  `develop` branch. Unless you are targeting a specific release, it is
-  best to default to working against `develop`.
+  `master` branch. Unless you are targeting a specific release, it is
+  best to default to working against `master`.
 * Make your commits, test your changes locally as per the README, and open a
   PR.
 * Make sure you include details of the problem you are fixing and how to test
