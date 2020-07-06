@@ -381,7 +381,7 @@ public class Data
           }
           else
           {
-           len = mdb.pg_buf[col_ptr - var_cols_found ] - col_start;
+           len = mdb.pg_buf[col_ptr - var_cols_found + 1] - col_start;
           }
           if (len<0)
           len+=256;
