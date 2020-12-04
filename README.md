@@ -1,6 +1,6 @@
 # OME MDB Tools
 
-[![Build Status](https://travis-ci.org/ome/ome-mdbtools.png)](http://travis-ci.org/ome/ome-mdbtools)
+[![Build Status](https://github.com/ome/ome-mdbtools/workflows/Maven/badge.svg)](https://github.com/ome/ome-mdbtools/actions)
 [![Maven Central](https://img.shields.io/maven-central/v/org.openmicroscopy/ome-mdbtools.svg)](http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.openmicroscopy%22%20AND%20a%3A%22ome-mdbtools%22)
 [![Javadocs](http://javadoc.io/badge/org.openmicroscopy/ome-mdbtools.svg)](http://javadoc.io/doc/org.openmicroscopy/ome-mdbtools)
 
