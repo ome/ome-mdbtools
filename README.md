@@ -10,8 +10,7 @@ This is a fork of the [mdbtools-java](http://mdbtools.cvs.sourceforge.net/viewvc
 More information
 ----------------
 
-For more information, see the [MDB Tools web
-site](http://mdbtools.sourceforge.net/).
+For more information, see the [MDB Tools project on GitHub](https://github.com/mdbtools/mdbtools).
 
 
 Pull request testing
