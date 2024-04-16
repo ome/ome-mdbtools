@@ -7,7 +7,7 @@
 
   <groupId>org.openmicroscopy</groupId>
   <artifactId>ome-mdbtools</artifactId>
-  <version>5.3.3</version>
+  <version>5.3.4-SNAPSHOT</version>
 
   <name>MDB Tools (Java port)</name>
   <description>Java API to handle Microsoft MDB format (Access). Used by Bio-Formats for Zeiss LSM metadata in MDB files.</description>
