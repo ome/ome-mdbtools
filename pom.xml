@@ -15,12 +15,12 @@
   <inceptionYear>2008</inceptionYear>
   <organization>
     <name>Open Microscopy Environment</name>
-    <url>http://www.openmicroscopy.org/</url>
+    <url>https://www.openmicroscopy.org/</url>
   </organization>
   <licenses>
     <license>
       <name>GNU Lesser General Public License v2.1+</name>
-      <url>http://www.gnu.org/licenses/lgpl-2.1.txt</url>
+      <url>https://www.gnu.org/licenses/lgpl-2.1.txt</url>
       <distribution>repo</distribution>
     </license>
   </licenses>
@@ -28,7 +28,7 @@
   <developers>
     <developer>
       <name>The OME Team</name>
-      <email>ome-devel@lists.openmicroscopy.org.uk</email>
+      <url>https://www.openmicroscopy.org/teams/</url>
     </developer>
   </developers>
   <contributors>
@@ -53,23 +53,6 @@
     <contributor><name>Bjoern Thiel</name></contributor>
   </contributors>
 
-  <mailingLists>
-    <mailingList>
-      <name>OME-users</name>
-      <subscribe>http://lists.openmicroscopy.org.uk/mailman/listinfo/ome-users/</subscribe>
-      <unsubscribe>http://lists.openmicroscopy.org.uk/mailman/listinfo/ome-users/</unsubscribe>
-      <post>ome-users@lists.openmicroscopy.org.uk</post>
-      <archive>http://lists.openmicroscopy.org.uk/pipermail/ome-users/</archive>
-    </mailingList>
-    <mailingList>
-      <name>OME-devel</name>
-      <subscribe>http://lists.openmicroscopy.org.uk/mailman/listinfo/ome-devel/</subscribe>
-      <unsubscribe>http://lists.openmicroscopy.org.uk/mailman/listinfo/ome-devel/</unsubscribe>
-      <post>ome-devel@lists.openmicroscopy.org.uk</post>
-      <archive>http://lists.openmicroscopy.org.uk/pipermail/ome-devel/</archive>
-    </mailingList>
-  </mailingLists>
-
   <prerequisites>
     <maven>3.0.5</maven>
   </prerequisites>
@@ -78,15 +61,15 @@
     <connection>scm:git:https://github.com/ome/ome-mdbtools</connection>
     <developerConnection>scm:git:git@github.com:ome/ome-mdbtools</developerConnection>
     <tag>HEAD</tag>
-    <url>http://github.com/ome/ome-mdbtools</url>
+    <url>https://github.com/ome/ome-mdbtools</url>
   </scm>
   <issueManagement>
-    <system>Trac</system>
-    <url>https://trac.openmicroscopy.org/ome</url>
+    <system>GitHub</system>
+    <url>https://github.com/ome/ome-mdbtools/issues</url>
   </issueManagement>
   <ciManagement>
-    <system>Jenkins</system>
-    <url>https://ci.openmicroscopy.org/</url>
+    <system>GitHub</system>
+    <url>https://github.com/ome/ome-mdbtools/actions</url>
   </ciManagement>
 
   <properties>
