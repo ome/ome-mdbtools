@@ -21,7 +21,7 @@ following before submitting a pull request:
 
  * verify that the branch merges cleanly into ```master```
  * verify that the branch compiles using Maven
- * verify that the branch does not use syntax or API specific to Java 1.8+
+ * verify that the branch does not use syntax or API specific to Java > 11
  * make sure that your commits contain the correct authorship information and,
    if necessary, a signed-off-by line
  * make sure that the commit messages or pull request comment contains
